@@ -23,7 +23,7 @@ No matter how you're using it, Claude Code needs your rules and procedures files
 
 ## How to start
 
-Create a folder on your computer. Call it whatever you want. Put [this file](https://github.com/jefegeuse/claude-code-setup-guide/releases/download/v11/v11.-.Claude.Code.or.Multi-AI.Workspace.Setup.Guide.md) in it (*a plain text version of this article, verbatim, in .md format*).
+Create a folder on your computer. Call it whatever you want (maybe something like 'YourName-HQ'). Put [this file](https://github.com/jefegeuse/claude-code-setup-guide/releases/download/v11/v11.-.Claude.Code.or.Multi-AI.Workspace.Setup.Guide.md) in it (*a plain text version of this article, verbatim, in .md format*).
 
 Install Claude Code. If you have a paid plan, go to settings to make sure Claude isn't training on your data (see the Privacy section for more on this). Then connect it to the folder and tell it to read this file.
 
